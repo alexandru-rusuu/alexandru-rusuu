@@ -1,4 +1,4 @@
-# alexandrusu
+# /home/alexandrusu
 `cs student`
 
 ---

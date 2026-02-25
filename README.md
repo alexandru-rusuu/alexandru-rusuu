@@ -11,13 +11,13 @@
 ---
 
 ### focus
-* **python** / automation
-* **networking** / sockets
-* **linux** / environment
+* **python** 
+* **networking** 
+* **linux** 
 
 ---
 
 ### activity
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandru-rusuu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="400">
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alexandru-rusuu&theme=react-dark&bg_color=0d1117&hide_border=true)](https://github.com/alexandru-rusuu)
 
 ---

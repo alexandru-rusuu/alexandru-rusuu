@@ -1,19 +1,23 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=header&text=alexandrusu&fontSize=40&fontAlign=50&fontAlignY=55&animation=twinkling" />
-</p>
-
+# alexandrusu
 `cs student`
 
 ---
 
-### focus
-* **python**
-* **networking** 
-* **linux**
+### stack
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white) 
+![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white) 
+![Networking](https://img.shields.io/badge/networking-000000?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-### system status
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandru-rusuu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+### focus
+* **python** / automation
+* **networking** / sockets
+* **linux** / environment
+
+---
+
+### activity
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandru-rusuu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="400">
 
 ---
